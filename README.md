@@ -15,7 +15,7 @@
 - Semaphores (<semaphore.h>)
 - Pthread mutex for synchronization
 
-# Project Structure
+## Project Structure
 - MultiThreaded_Proxy_Server_Client/
   ├── proxy_server_with_cache.c     # Main proxy server source code
   ├── proxy_parse.h / proxy_parse.c # Request parsing utilities
