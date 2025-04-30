@@ -1,6 +1,5 @@
 # Multi-Threaded Caching Proxy Server
-- A high-performance multi-threaded proxy server in C that supports HTTP GET requests and implements caching using the Least Recently Used (LRU) eviction policy.
-
+- This project implements a multi-threaded HTTP proxy server in C that supports caching using the Least Recently Used (LRU) policy. It handles multiple client requests concurrently using threads and semaphores, and stores frequently accessed responses in memory for faster access.
 # Features
 - Multi-threaded: Handles multiple clients concurrently using POSIX threads.
 - Caching: Speeds up repeated requests with an in-memory LRU cache.
