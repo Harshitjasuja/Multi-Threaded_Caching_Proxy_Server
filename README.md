@@ -16,11 +16,12 @@
 - Pthread mutex for synchronization
 
 ## Project Structure
+
 - MultiThreaded_Proxy_Server_Client/
-  ├── proxy_server_with_cache.c     # Main proxy server source code
-  ├── proxy_parse.h / proxy_parse.c # Request parsing utilities
-  ├── Makefile                      # Build file
-  └── README.md                     # Project documentation
+- ├── proxy_server_with_cache.c     # Main proxy server source code
+- ├── proxy_parse.h / proxy_parse.c # Request parsing utilities
+- ├── Makefile                      # Build file
+- └── README.md                     # Project documentation
 
 #  How to Build and Run
 - in bash: make
