@@ -39,6 +39,5 @@ Does not support HTTPS.
 No persistent (disk-based) caching — in-memory only.
 
 # Author
-Harshit Jasuja
-Computer Science Engineering Student
 [Harshit Jasuja](https://github.com/Harshitjasuja) 
+Computer Science Engineering Student
